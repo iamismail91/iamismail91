@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Muhammad Ismail, an iOS & Android Engineer based in Islamabad with 7+ years of experience in designing and developing user interfaces, testing, debugging, fintech and eCommerce technologies in iOS (Swift) and Android (Java).
+I'm Muhammad Ismail, an iOS & Android Engineer based in Islamabad with 7+ years of experience in designing developing mobile applications in iOS (Swift) and Android.
 
 Completed my bachelors from [University of Engineering and Technology Peshawar](https://www.uetpeshawar.edu.pk/) in Computer Software Engineering. I have developed and designed multiple iOS & Android applications ranging from classified ads, e-commerce, fintech, social networking, utilities , productivity and more. I am very enthusiastic and passionate about my field and exploring more knowledge in it.
 
