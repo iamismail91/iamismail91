@@ -34,7 +34,7 @@ iamismail91@gmail.com or +92-343-55549029
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmermughal&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamismail91&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://github.com/iamismail91
 [twitter]: https://twitter.com/Muhamma50331999
